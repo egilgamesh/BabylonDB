@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ceb9fac4-e8bf-4c91-9e9a-69be17c2fa6f": {
+      "ProjectGuid": "ceb9fac4-e8bf-4c91-9e9a-69be17c2fa6f",
+      "DisplayName": "BabylonDB.Base",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
