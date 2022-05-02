@@ -1,0 +1,12 @@
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\bin\Debug\net6.0\BabylonDB.Base.deps.json
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\bin\Debug\net6.0\BabylonDB.Base.dll
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\bin\Debug\net6.0\ref\BabylonDB.Base.dll
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\bin\Debug\net6.0\BabylonDB.Base.pdb
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.csproj.AssemblyReference.cache
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.AssemblyInfoInputs.cache
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.AssemblyInfo.cs
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.csproj.CoreCompileInputs.cache
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.dll
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\ref\BabylonDB.Base.dll
+D:\Projects\BabylonDB\BabylonDB\BabylonDB.Base\obj\Debug\net6.0\BabylonDB.Base.pdb

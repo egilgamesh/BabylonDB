@@ -2,7 +2,7 @@
 
 namespace BabylonDB.Base;
 
-public sealed class Tokenizer
+public class Tokenizer
 {
 	private readonly List<string> Lines;
 	private bool EOF;
